@@ -1,0 +1,13 @@
+.DS_Store
+.texpadtmp
+*.pdf
+*.pdfBACK
+*.texBACK
+DOCUMENTACION
+*.zip
+IMPRENTA
+*.pages
+*.ggb
+!ALGEBRA-LINEAL-Y-GEOMETRIA-A5.pdf
+!IMPRENTA/portada\ libro_II.pdf
+muestra de como debe de quedar.jpg
