@@ -2,7 +2,7 @@
 
 ## Libro de cálculo infinitesimal (avanzado) para bachillerato
 
-El libro recoge el temario actual de matemáticas de ciencias en su parte de Cálculo Diferencial e Integral del último curso de bachillerato. Incluye algunos temas extras de interés para alumnos que vayan a cursas carreras que necesiten mayor contenido matemático.
+El libro recoge el temario actual de matemáticas de ciencias en su parte de Cálculo Diferencial e Integral del último curso de bachillerato. Incluye algunos temas extras de interés para alumnos que vayan a cursar carreras que necesiten mayor contenido matemático.
 
 __________________
 
