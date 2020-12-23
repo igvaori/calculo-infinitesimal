@@ -1,6 +1,10 @@
 # calculo-infinitesimal
-Libro de cálculo infinitesimal (avanzado) para bachillerato
 
+## Libro de cálculo infinitesimal (avanzado) para bachillerato
+
+El libro recoge el temario actual de matemáticas de ciencias en su parte de Álgebra lineal y Geometría del último curso de bachillerato. Incluye algunos temas extras de interés para alumnos que vayan a cursas carreras que necesiten mayor contenido matemático.
+
+__________________
 
 - Intro
 - 1. Preliminares
@@ -15,3 +19,6 @@ Libro de cálculo infinitesimal (avanzado) para bachillerato
 - 10. Introducción al cálculo vectorial
 - Apéndices
 
+![](https://github.com/igvaori/calculo-infinitesimal/blob/master/IMPRENTA/muestra.jpg)
+
+__________________
