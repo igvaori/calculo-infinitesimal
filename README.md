@@ -19,7 +19,7 @@ __________________
 - 8. Integral definida
 - 9. Introducción a las ecuaciones diferenciales
 - 10. Introducción al cálculo vectorial
--  Apéndices
+#### Apéndices
 
 ![](https://github.com/igvaori/calculo-infinitesimal/blob/master/IMPRENTA/muestra.jpg)
 
